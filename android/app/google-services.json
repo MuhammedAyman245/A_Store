@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252540469152",
+    "project_id": "buyit-e834e",
+    "storage_bucket": "buyit-e834e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252540469152:android:909743ff3af0732c6feec5",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArA0sQU_pcb2k-aU0gSYYUkDae9eFimno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
